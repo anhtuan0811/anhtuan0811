@@ -1,14 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mai Anh Tuấn</h1>
-<h3 align="center">Looking for an intern/fresher data analyst from Viet Nam</h3>
+# 👋 Hi there!
+<hr>
 
-- 🌱 I’m currently learning **SQL, PowerBi and Python**
+## 👨‍💻 About me
 
-- 📫 How to reach me **maianhtuan0566028626@gmail.com**
+I am Anh Tuan, and I'm a young enthusiast in the realms of data analytics, data science, and business intelligence. My fascination for these domains arises from my innate curiosity about the ever-evolving world of data and its profound potential to revolutionize both businesses and societies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I am consistently on the lookout for opportunities to enhance my expertise in data analysis, visualization, and interpretation. I accomplish this through engaging in various online courses and hands-on projects. This GitHub repository serves as a platform for documenting my learning journey and sharing my projects with the broader community. From tasks like data preprocessing and the implementation of machine learning algorithms to crafting compelling data visualizations and conducting business case studies, I derive immense satisfaction from working on a diverse array of projects. viết đoạn này nghe hay hơn
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Thank you for visiting my GitHub, and please feel free to reach out to me via my [LinkedIn Profile](https://www.linkedin.com/in/maianhtuan0811/).
 
+## 📊 My projects
+
+My projects are displayed and specified in this [Project Showcase](https://github.com/nam-anh-21/Project-Showcase).
+
+## 📌 Key Competencies
+
+- Skills: Data Preprocessing, Data Visualization, Data Analysis
+- Programming Language: SQL, Python
+- Visualization tools: Power BI, Matplotlib, Seaborn
